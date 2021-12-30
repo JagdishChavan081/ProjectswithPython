@@ -1,4 +1,5 @@
 
+<img src="https://github.com/JagdishChavan081/ProjectswithPython/blob/master/projectswithpython.png?raw=true"  width="1000" height="500">
 # ProjectswithPython
 Begineer Friendly Projects with Python
 Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because it’s concise and easy to read. Whatever you want to do, Python can do it. From web development to machine learning to data science, Python is the language for you. After getting some basic knowledge about Python you might be looking for projects that can be used to build a strong portfolio well this series will be focused on building projects from scratch till deployment using all the basic concepts as OOPS, DSA and a lot more.
