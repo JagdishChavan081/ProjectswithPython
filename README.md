@@ -19,13 +19,13 @@ Python is a general-purpose, versatile, and powerful programming language. It’
 
 * Height conversion
 
-Random Password Generator
+* Random Password Generator
 
-Calculator
+* Calculator
 
-Countdown timer
+* Countdown timer
 
-Tip Calculator
+* Tip Calculator
 
 **Are there any course requirements or prerequisites?**
 * Basic knowledge of Python will be helpful but not a show stopper
